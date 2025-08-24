@@ -78,4 +78,4 @@ python "Fashion MNIST classifier.py"
 
 ✨ This was part of my learning project on Deep Learning with Keras.
 
-MADE WITH ❤️ -Yashvi Verma
+From idea to execution, made with ❤️ by Yashvi Verma.
